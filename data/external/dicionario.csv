@@ -1,0 +1,6 @@
+variavel,descricao,tipo,subtipo
+year,Ano da observação,Quantitativa,Discreta
+country,País onde a observação foi feita,Qualitativa,Nominal
+exp,Despesa com saúde per capita,Quantitativa,Contínua
+region,Região geográfica,Qualitativa,Nominal
+pop,População total,Quantitativa,Discreta
